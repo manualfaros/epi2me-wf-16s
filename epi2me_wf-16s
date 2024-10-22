@@ -1,0 +1,2 @@
+##Se lanza dentro de la carpeta fastq_pass, para cada barcode
+nextflow run epi2me-labs/wf-16s --fastq barcode12 --out_dir output_barcode12 -resume
